@@ -1,5 +1,5 @@
 # Sandbox for comparing performance of VTS Geospatial and CesiumJS
-
+- init githubpages
 This repository serves as a sandbox for comparing performance of various 3D rendering stacks on the same or very similar data. The web page where you can compare 3D rendering stacks live is [here](https://ladislavhorky.github.io/battle-of-3d-rendering-stacks/).
 
 So far there are [VTS Geospatial](https://www.melown.com/products/vts-geospatial/) and [CesiumJS](https://cesiumjs.org/), iTowns are planned to be added once they support textured meshes in 3D Tiles.
